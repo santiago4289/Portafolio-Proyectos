@@ -24,7 +24,7 @@ Este proyecto documenta un estudio de caso de estudio enfocado en la sinergia en
 
 | Archivo | Descripción |
 | :--- | :--- |
-| **`qbd-lss-integration-report.pdf`** | Ensayo técnico y científico completo que detalla el marco teórico, el análisis de perfiles de temperatura y la evaluación de capacidad de proceso. |
+| **`Reporte_Integración QbD-LSS.pdf`** | Ensayo técnico y científico completo que detalla el marco teórico, el análisis de perfiles de temperatura y la evaluación de capacidad de proceso. |
 
 ---
 
