@@ -1,6 +1,6 @@
-# Portafolio Profesional de Ingeniería y Desarrollo
+# Portafolio de Ingeniería de Procesos y Analítica Aplicada
 
-Bienvenido a mi repositorio central de proyectos. Este espacio recopila desarrollos de software, simulaciones de ingeniería, modelos de analítica de datos, estadística aplicada y diseños técnicos orientados a resolver problemas complejos con rigor técnico.
+Este repositorio reúne proyectos desarrollados en ingeniería de procesos, simulación, analítica de datos, modelado estadístico y desarrollo de software, aplicando herramientas como Aspen HYSYS, Python, R, Excel y AutoCAD para la solución de problemas industriales.
 
 ---
 
@@ -17,6 +17,15 @@ El repositorio está organizado en las siguientes categorías principales:
 
 ---
 
+## 🎯 Áreas de Interés
+
+* Diseño y simulación de procesos químicos e industriales
+* Optimización de procesos mediante DoE y RSM
+* Desarrollo farmacéutico bajo enfoque QbD
+* Análisis de datos aplicado a ingeniería
+* Seguridad de procesos y análisis de riesgos
+
+---
 ## 🚀 Proyectos Destacados
 
 ### ⚙️ 1. Simulación de Tratamiento de Crudo (`02_Simulacion_Procesos/Crude_oil_treatment_Mass_Energy`)
@@ -27,10 +36,7 @@ Simulación de eventos discretos orientada a la optimización de cuellos de bote
 
 ### 📊 3. Análisis ANOVA y Calidad por Diseño (`03_Analitica_Datos_Stats/`)
 * **Pellet-coating-anova-analysis**: Estudio estadístico mediante análisis de varianza (ANOVA) aplicado a procesos de recubrimiento de pellets.
-* **QbD_LeanSixSigma_PelletCoating**: Implementación de enfoques de Calidad por Diseño (QbD) y metodologías Lean Six Sigma para la optimización de procesos farmacéuticos/industriales.
-
-### 🔐 4. App Cifrado César (`01_Desarrollo_Software/App_Cifrado_Cesar`)
-Herramienta de escritorio desarrollada en Python con interfaz gráfica (`tkinter`), diseñada con fines educativos en ciberseguridad. Permite aplicar el cifrado y descifrado César de forma universal sobre archivos de texto (`.txt`), documentos de Word (`.docx`) y archivos PDF (`.pypdf`).
+* **QbD_LeanSixSigma_PelletCoating**: Implementación de enfoques de Calidad por Diseño (QbD) y metodologías Lean Six Sigma para la optimización de procesos farmacéuticos e industriales.
 
 ---
 
