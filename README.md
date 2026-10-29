@@ -1,5 +1,7 @@
 # Portafolio de Ingeniería de Procesos y Analítica Aplicada
 
+Ingeniero Químico y candidato a Magíster en Ingeniería de Procesos y Sistemas Industriales, con interés en el diseño, simulación, optimización y escalamiento de procesos industriales.
+
 Este repositorio reúne proyectos desarrollados en ingeniería de procesos, simulación, analítica de datos, modelado estadístico y desarrollo de software, aplicando herramientas como Aspen HYSYS, Python, R, Excel y AutoCAD para la solución de problemas industriales.
 
 ---
