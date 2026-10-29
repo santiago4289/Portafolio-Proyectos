@@ -46,5 +46,6 @@ Simulación de eventos discretos orientada a la optimización de cuellos de bote
 
 * **Wilder Santiago Rodríguez Osorio**  
 Ingeniero químico | M.Sc. (c) en Ingeniería de Procesos  
-santiago22.sr@gmail.com  
+santiago22.sr@gmail.com
+* 🔗 [Perfil de LinkedIn](https://www.linkedin.com/in/wilder-santiago-rodr%C3%ADguez-osorio-453069179/)
 * 💼 [Perfil de GitHub](https://github.com/santiago4289)
