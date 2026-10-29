@@ -13,7 +13,7 @@ El repositorio está organizado en las siguientes categorías principales:
 | Categoría | Descripción | Tecnologías / Herramientas |
 | :--- | :--- | :--- |
 | **[01. Desarrollo de Software](./01_Desarrollo_Software)** | Aplicaciones de escritorio, utilidades de automatización y herramientas de ciberseguridad. | Python, Tkinter, Git |
-| **[02. Simulación de Procesos](./02_Simulacion_Procesos)** | Modelado, simulación y optimización de sistemas industriales, energéticos y logísticos. | Aspen HYSYS, CFD, Flexim |
+| **[02. Simulación de Procesos](./02_Simulacion_Procesos)** | Modelado, simulación y optimización de sistemas industriales, energéticos y logísticos. | Aspen Plus/HYSYS, CFD, Flexim |
 | **[03. Analítica y Estadística](./03_Analitica_Datos_Stats)** | Modelado estadístico, diseño de experimentos (DoE), optimización por RSM y control de calidad. | R, Python (Pandas/NumPy), Lean Six Sigma |
 | **[04. Diseño Técnico y CAD](./04_Diseno_CAD)** | Planos de ingeniería, diagramas de flujo y esquemas técnicos. | AutoCAD, Visio |
 
